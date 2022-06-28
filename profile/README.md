@@ -6,6 +6,8 @@
 @edodimanzo
 @os3albert
 
+### Developing project togheter during experis course
+
 <!--
 
 **Here are some ideas to get you started:**
