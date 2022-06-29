@@ -3,7 +3,7 @@
 ## Members
 @t0nd0
 @fraug
-@edodimanzo
+@edodemarzo
 @os3albert
 
 ### Developing project togheter during experis course
